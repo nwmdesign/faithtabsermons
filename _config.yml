@@ -299,7 +299,6 @@ plugins:
   - jekyll-sitemap
 
 
-
 remove-ads: true
 
 # Beautiful Jekyll / Dean Attali
